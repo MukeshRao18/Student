@@ -1,0 +1,30 @@
+.card {
+    border-radius: 10px;
+  }
+  
+  .card-title {
+    font-size: 1.5rem;
+  }
+  
+  .card-text {
+    font-size: 1rem;
+  }
+  
+  .button {
+    background-color: #007bff;
+    border: none;
+    color: white;
+    padding: 0.5rem 1rem;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1rem;
+    margin: 0.5rem 0;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .button:hover {
+    background-color: #0056b3;
+  }
+  
